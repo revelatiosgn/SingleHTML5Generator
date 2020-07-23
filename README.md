@@ -3,6 +3,7 @@
 Based on https://github.com/mrsep18th/single_html5_generator
 
 CocosCreator version 2.4.0. You also need Python3
+
 Instructions:
 1. Copy build-templates and html_generator to your project folder
 2. Build cocos project with settings:
