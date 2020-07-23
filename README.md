@@ -1,4 +1,5 @@
 # SingleHTML5Generator
+
 Based on https://github.com/mrsep18th/single_html5_generator
 CocosCreator version 2.4.0. You also need Python3
 Instructions:
