@@ -10,5 +10,5 @@ Instructions:
 2. Build cocos project with settings:<br/>
 platform: Web Mobile<br/>
 Inline all SpriteFrames: uncheck
-3. Run html_generator/generate_single_html.py (or call py "html_generator/generate_single_html.py True" to compress images with tinify)
+3. Run html_generator/generate_single_html.py (or call "py html_generator/generate_single_html.py True" to compress images with tinify)
 4. Result: html_generator/index.html
